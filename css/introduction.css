@@ -1,0 +1,159 @@
+body {
+  margin: 0;
+  background-color: white;
+  background-image: url("https://www.wrs.com.sg/etc/designs/wrs/clientlib-site/images/bgd-default.png");
+  z-index: -1;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.first-section {
+  background-image: url("https://accuweather.brightspotcdn.com/dims4/default/cc442cf/2147483647/resize/590x/quality/90/?url=http%3A%2F%2Faccuweather-bsp.s3.amazonaws.com%2F35%2F36%2Fbbe409654bbabc17a8592826dacf%2Fforest.jpg");
+  height: 50px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 20px
+}
+
+h1 {
+  color: #d7d4f0;
+  text-align: center;
+  font-family: ST Sans;
+  margin-top: 0px;
+  Font-size:35px
+}
+
+.second-section {}
+
+p {
+  font-family: Calibri;
+  font-size: initial;
+}
+
+.third-section {
+  background-color: #8dc88238;
+  position: relative;
+}
+
+.fourth-section {
+  /* background-image: url("https://accuweather.brightspotcdn.com/dims4/default/cc442cf/2147483647/resize/590x/quality/90/?url=http%3A%2F%2Faccuweather-bsp.s3.amazonaws.com%2F35%2F36%2Fbbe409654bbabc17a8592826dacf%2Fforest.jpg");
+  background-repeat: no-repeat;
+  background-size: cover; */
+  background-color: #d7d7d775;
+  height: 60px;
+}
+
+.fifth-section{
+  background-color: #8dc88238;
+  height: 400px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.characterstics {
+  margin-bottom: 0px;
+  width: 90%;
+}
+
+.characterstics p {
+  margin: 0px;
+}
+
+.sixth-section{
+  /* background-image: url("https://accuweather.brightspotcdn.com/dims4/default/cc442cf/2147483647/resize/590x/quality/90/?url=http%3A%2F%2Faccuweather-bsp.s3.amazonaws.com%2F35%2F36%2Fbbe409654bbabc17a8592826dacf%2Fforest.jpg");
+  background-repeat: no-repeat;
+  background-size: cover; */
+  background-color: #d7d7d775;
+  height: 60px;
+}
+
+.seventh-section {
+  background-color: #8dc88238;
+  height: 300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-block;
+  position: relative;
+}
+
+.eighth-section {
+  /* background-image: url("https://accuweather.brightspotcdn.com/dims4/default/cc442cf/2147483647/resize/590x/quality/90/?url=http%3A%2F%2Faccuweather-bsp.s3.amazonaws.com%2F35%2F36%2Fbbe409654bbabc17a8592826dacf%2Fforest.jpg");
+  background-repeat: no-repeat;
+  background-size: cover; */
+  background-color: #d7d7d775;
+  height: 60px;
+}
+
+.ninth-section {
+  background-color: #8dc88238;
+  height: 350px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.importance {
+  width: 100%;
+  padding-left: 10px;
+}
+
+/* NAV */
+.main-nav {
+    margin-left: 3%;
+}
+
+.main-nav__items {
+  font-family: Ariel;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+nav > ul {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+ } 
+
+.main-nav__item {
+  float: left;
+  background-color: black;
+  opacity: .8;
+  line-height: 30px;
+  width: 24%;
+  margin-right: 2px;
+  text-align: center;
+}
+
+.main-nav__item > a {
+  opacity: 1;
+  display: block;
+}
+
+ul li a {
+  text-decoration: none;
+  color: white;
+  display: block;
+}
+
+ul li a:hover{
+  background-color: green;
+}
+
+ul li ul li{
+  display: none;
+}
+
+ul li:hover ul li{
+  display: block;
+}
+
+.nav-section {
+  background-image: url("https://accuweather.brightspotcdn.com/dims4/default/cc442cf/2147483647/resize/590x/quality/90/?url=http%3A%2F%2Faccuweather-bsp.s3.amazonaws.com%2F35%2F36%2Fbbe409654bbabc17a8592826dacf%2Fforest.jpg");
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

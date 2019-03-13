@@ -1,0 +1,167 @@
+body {
+  margin: 0;
+}
+
+
+/* .first-section {
+  background-color: #00ff80;
+  padding: 20px
+} */
+
+.first-section {
+  background-image: url("https://accuweather.brightspotcdn.com/dims4/default/cc442cf/2147483647/resize/590x/quality/90/?url=http%3A%2F%2Faccuweather-bsp.s3.amazonaws.com%2F35%2F36%2Fbbe409654bbabc17a8592826dacf%2Fforest.jpg");
+  height: 50px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 20px
+}
+
+h1 {
+  color: #000000;
+  text-align: center;
+  font-family: ST Sans;
+  margin-top: 0px;
+  Font-size:35px
+}
+
+
+.second-section {
+  /* background-image: url("https://accuweather.brightspotcdn.com/dims4/default/cc442cf/2147483647/resize/590x/quality/90/?url=http%3A%2F%2Faccuweather-bsp.s3.amazonaws.com%2F35%2F36%2Fbbe409654bbabc17a8592826dacf%2Fforest.jpg");
+  background-repeat: no-repeat;
+  background-size: cover; */
+  background-color: #d7d7d775;
+  height: 50px;
+}
+
+.third-section {
+  background-color: #8dc88238;
+  height: 350px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.fourth-section {
+  /* background-image: url("https://accuweather.brightspotcdn.com/dims4/default/cc442cf/2147483647/resize/590x/quality/90/?url=http%3A%2F%2Faccuweather-bsp.s3.amazonaws.com%2F35%2F36%2Fbbe409654bbabc17a8592826dacf%2Fforest.jpg");
+  background-repeat: no-repeat;
+  background-size: cover; */
+  background-color: #d7d7d775;
+  height: 50px;
+}
+
+.fifth-section {
+  position: relative;
+  background-color: #8dc88238;
+  height: 300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.sixth-section {
+  /* background-image: url("https://accuweather.brightspotcdn.com/dims4/default/cc442cf/2147483647/resize/590x/quality/90/?url=http%3A%2F%2Faccuweather-bsp.s3.amazonaws.com%2F35%2F36%2Fbbe409654bbabc17a8592826dacf%2Fforest.jpg");
+  background-repeat: no-repeat;
+  background-size: cover; */
+  background-color: #d7d7d775;
+  height: 50px;
+}
+
+.seventh-section {
+  position: relative;
+  background-color: #8dc88238;
+  height: 300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.eighth-section {
+  /* background-image: url("https://accuweather.brightspotcdn.com/dims4/default/cc442cf/2147483647/resize/590x/quality/90/?url=http%3A%2F%2Faccuweather-bsp.s3.amazonaws.com%2F35%2F36%2Fbbe409654bbabc17a8592826dacf%2Fforest.jpg");
+  background-repeat: no-repeat;
+  background-size: cover; */
+  background-color: #d7d7d775;
+  height: 50px;
+}
+
+.ninth-section {
+  position: relative;
+  background-color: #8dc88238;
+  height: 350px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.tenth-section {
+  /* background-image: url("https://accuweather.brightspotcdn.com/dims4/default/cc442cf/2147483647/resize/590x/quality/90/?url=http%3A%2F%2Faccuweather-bsp.s3.amazonaws.com%2F35%2F36%2Fbbe409654bbabc17a8592826dacf%2Fforest.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;  */
+  background-color: #d7d7d775;
+  height: 50px;
+}
+
+.eleventh-section {
+  position: relative;
+  background-color: #8dc88238;
+  height: 250px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+/* NAV */
+.main-nav {
+    margin-left: 3%;
+}
+
+.main-nav__items {
+  font-family: Ariel;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+nav > ul {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+ } 
+
+.main-nav__item {
+  float: left;
+  background-color: black;
+  opacity: .8;
+  line-height: 30px;
+  width: 24%;
+  margin-right: 2px;
+  text-align: center;
+}
+
+.main-nav__item > a {
+  opacity: 1;
+  display: block;
+}
+
+ul li a {
+  text-decoration: none;
+  color: white;
+  display: block;
+}
+
+ul li a:hover{
+  background-color: green;
+}
+
+ul li ul li{
+  display: none;
+}
+
+ul li:hover ul li{
+  display: block;
+}
+
+.nav-section {
+  background-image: url("https://accuweather.brightspotcdn.com/dims4/default/cc442cf/2147483647/resize/590x/quality/90/?url=http%3A%2F%2Faccuweather-bsp.s3.amazonaws.com%2F35%2F36%2Fbbe409654bbabc17a8592826dacf%2Fforest.jpg");
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

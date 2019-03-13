@@ -1,0 +1,85 @@
+body {
+  margin: 0;
+}
+
+.first-section {
+  background-color: #808088;
+}
+
+h1 {
+  color: #000000;
+  text-align: center;
+  font-family: ST Sans;
+  margin-top: 0px;
+  font-size: 80px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.main-nav__items {
+  font-family: Ariel;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+ul {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+ } 
+
+.main-nav {
+    margin-left: 1%;
+}
+
+.main-nav__item {
+  float: left;
+  background-color: black;
+  opacity: .8;
+  line-height: 30px;
+  width: 33%;
+  margin-right: 2px;
+  text-align: center;
+}
+
+.main-nav__item > a {
+  opacity: 1;
+  display: block;
+}
+
+ul li a {
+  text-decoration: none;
+  color: white;
+  display: block;
+}
+
+ul li a:hover{
+  background-color: green;
+}
+
+ul li ul li{
+  display: none;
+}
+
+ul li:hover ul li{
+  display: block;
+}
+
+.second-section {
+  background-image: url("https://accuweather.brightspotcdn.com/dims4/default/cc442cf/2147483647/resize/590x/quality/90/?url=http%3A%2F%2Faccuweather-bsp.s3.amazonaws.com%2F35%2F36%2Fbbe409654bbabc17a8592826dacf%2Fforest.jpg");
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.third-section {
+    background-color: #8dc88238;
+    text-align: center;
+}
